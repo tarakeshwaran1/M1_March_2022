@@ -1,1 +1,5 @@
+# INTRODUCTION #
+* The aim of this system To develop a safe and efficient railway reservation and administration system, as well as a search system for trains and passenger information, to assign seats to passengers on the waiting list, and to construct a login system for securing passenger booking information.
+* By building a safe and speedier railway reservation and search system for trains and passenger details, this project intends to improve the railway administration system, which will be valuable for both authorities and passengers.
+* This project’s scope is much broader than an engineering endeavor. This might be implemented in a real-world railway management system to allow for faster data access and better waiting management. This strategy can also be used to other modes of transportation.
 
